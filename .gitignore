@@ -1,0 +1,7 @@
+
+# production
+
+env
+db.sqlite3
+accounts/migrations
+accounts/__pycache__
